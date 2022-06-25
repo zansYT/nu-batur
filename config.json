@@ -1,0 +1,13 @@
+{
+  "ownerNumber": ["6285921165857@s.whatsapp.net"],
+  "ownerName": ["Christian ID"],
+  "botName": "ZANSB0T",
+  "sessionName": "session",
+  "pathimg": "./media/chris2.jpg",
+  "gamewaktu": 90,
+  "limitCount": 40,
+  "gcount": {
+	"prem": 9999,
+	"user": 30
+  }
+}
